@@ -4,7 +4,7 @@
 ![Clone Binance Exchange Script](https://i.imgur.com/UDXuFXI.png)
 
 ## 🚀 About the Project
-**ProfitScripts** is a **full-featured cryptocurrency exchange script** built on **PHP 7.0+**, inspired by **Binance** but developed completely from scratch.  
+**ProfitScripts** is a **full-featured cryptocurrency exchange script** built on **PHP, inspired by **Binance** but developed completely from scratch.  
 It supports **spot trading**, **P2P exchange**, **Bybit API liquidity**, **referral system**, **KYC**, **2FA**, **multi-language**, and much more.
 
 This is a **ready-to-launch crypto exchange solution** — suitable for startups, crypto entrepreneurs, and developers looking to build a secure and scalable platform quickly.
@@ -67,7 +67,7 @@ This is a **ready-to-launch crypto exchange solution** — suitable for startups
 ![ProfitScripts Exchange](https://i.imgur.com/pQzRx7D.png)
 
 ## 🚀 О проекте
-**ProfitScripts** — это **современный скрипт криптовалютной биржи**, написанный на **PHP 7.0+** с нуля, по аналогии с **Binance**.  
+**ProfitScripts** — это **современный скрипт криптовалютной биржи**, написанный на **PHP ** с нуля, по аналогии с **Binance**.  
 Подходит для стартапов, разработчиков и компаний, желающих быстро запустить свою **биржу, токен или криптопроект**.
 
 ---
