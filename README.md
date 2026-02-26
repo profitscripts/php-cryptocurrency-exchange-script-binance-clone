@@ -1,11 +1,10 @@
-# 💎 ProfitScripts — Advanced Cryptocurrency Exchange Script (Binance-Style)
+# 💎 Crypto Exchange Script: Binance & Bybit Clone with P2P and Spot Trading
 
 ![Cryptocurrency Exchange Script](https://i.imgur.com/pQzRx7D.png)
 ![Clone Binance Exchange Script](https://i.imgur.com/UDXuFXI.png)
  
 ## 🚀 About the Project
-**ProfitScripts** is a **full-featured cryptocurrency exchange script** built on **PHP, inspired by **Binance** but developed completely from scratch.  
-It supports **spot trading**, **P2P exchange**, **Bybit API liquidity**, **referral system**, **KYC**, **2FA**, **multi-language**, and much more.
+Professional Cryptocurrency Exchange Solution. Build a scalable trading platform like Bybit or Binance. Support for P2P deals, global liquidity via API, and instant crypto swaps. Secure, mobile-responsive, and ready for global launch. Start your fintech business with a proven exchange engine.
 
 This is a **ready-to-launch crypto exchange solution** — suitable for startups, crypto entrepreneurs, and developers looking to build a secure and scalable platform quickly.
 
