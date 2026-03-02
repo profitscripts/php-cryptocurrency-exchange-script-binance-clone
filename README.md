@@ -4,7 +4,7 @@
 ![Clone Binance Exchange Script](https://i.imgur.com/UDXuFXI.png)
  
 ## 🚀 About the Project
-Professional Cryptocurrency Exchange Solution. Build a scalable trading platform like Bybit or Binance. Support for P2P deals, global liquidity via API, and instant crypto swaps. Secure, mobile-responsive, and ready for global launch. Start your fintech business with a proven exchange engine.
+Professional Cryptocurrency Exchange Solution. Build a scalable trading platform like Bybit or Binance. Support for P2P deals, global liquidity via API, and instant crypto swaps. Secure, mobile-responsive, and ready for global launch. Start your fintech business with a proven exchange engine. 
 
 This is a **ready-to-launch crypto exchange solution** — suitable for startups, crypto entrepreneurs, and developers looking to build a secure and scalable platform quickly.
 
@@ -58,65 +58,6 @@ This is a **ready-to-launch crypto exchange solution** — suitable for startups
 
 ## 🔑 Keywords for SEO
 `crypto exchange script`, `Binance clone`, `PHP crypto trading`, `Bybit API exchange`, `p2p crypto exchange`, `spot trading PHP`, `KYC 2FA exchange`, `cryptocurrency marketplace script`, `crypto wallet system`, `token launch platform`
-
----
-
-# 🇷🇺 ProfitScripts — Профессиональный скрипт криптобиржи (Аналог Binance)
-
-![ProfitScripts Exchange](https://i.imgur.com/pQzRx7D.png)
-
-## 🚀 О проекте
-**ProfitScripts** — это **современный скрипт криптовалютной биржи**, написанный на **PHP ** с нуля, по аналогии с **Binance**.  
-Подходит для стартапов, разработчиков и компаний, желающих быстро запустить свою **биржу, токен или криптопроект**.
-
----
-
-## ⚙️ Основные возможности
-
-### 🧩 Торговля
-- Спотовая торговля: **Лимит / Маркет / Стоп-Лимит ордера**  
-- Локальная торговля (обмен внутри платформы)  
-- Подключение ликвидности через **Bybit API**  
-- Автогенерация кошельков под каждого пользователя  
-- Пополнение/вывод через API для любых монет  
-- Создание токенов и направлений с админки  
-
-### 🔐 Безопасность
-- **KYC (верификация пользователей)**  
-- **2FA (Google Authenticator)**  
-- Подтверждение почты, защита сессий  
-- Уведомления по email  
-
-### 💼 Интерфейс и панель администратора
-- Дизайн в стиле **Binance** (тёмная/светлая тема)  
-- Мультиязычность и адаптивность  
-- Уведомления, реферальная система  
-- Гибкая админка для управления всем проектом  
-
----
-
-## 💰 Стоимость
-| Тип лицензии | Описание | Цена |
-|---------------|-----------|--------|
-| 💼 Standard | Исходный код + инструкция | **$2,499** |
-| 🚀 Extended | Установка + брендирование | **$3,499** |
-| 🏦 Enterprise | Поддержка и обновления | **$5,999** |
-
-🔧 Возможна любая доработка под клиента.  
-💬 Оплата один раз — без абонентки.
-
----
-
-## 🌐 Контакты
-- 🌍 **Сайт:** [https://profitscripts.cc/](https://profitscripts.cc/)  
-- 🛒 **Магазин скриптов:** [https://shop.profitscripts.cc/](https://shop.profitscripts.cc/)  
-- 💬 **Telegram:** [@ProfitScripts](https://t.me/ProfitScripts)  
-- 📧 **Email:** profitscripts@gmail.com  
-
----
-
-## 🔑 Ключевые слова
-`скрипт криптобиржи`, `Binance клон`, `биржа криптовалют PHP`, `скрипт торговли криптой`, `ликвидность Bybit API`, `спотовая торговля`, `KYC 2FA`, `скрипт кошелька`, `p2p обмен криптовалют`, `создание токенов`, `крипто стартап`
 
 ---
 
